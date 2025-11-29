@@ -26,5 +26,5 @@ Recon & Scanning
 ##Web & Exploitation
 <div> <img src="https://img.shields.io/badge/-Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" /> <img src="https://img.shields.io/badge/-Metasploit-1679A7?style=for-the-badge&logo=metasploit&logoColor=white" /> </div>
 
-##Certifications
+## Certifications
 <div> <img src="https://img.shields.io/badge/-Google_Cybersecurity_Professional_Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white" /> <img src="https://img.shields.io/badge/-PJPT_(Practical_Junior_Penetration_Tester)-000000?style=for-the-badge&logo=tcmsecurity&logoColor=white" /> </div>
