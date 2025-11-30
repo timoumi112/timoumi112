@@ -23,7 +23,7 @@ Networking & Infrastructure
 <div> <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000" /> <img src="https://img.shields.io/badge/-Networking-0A66C2?style=for-the-badge&logo=cisco&logoColor=white" /> <img src="https://img.shields.io/badge/-Active_Directory-2671E5?style=for-the-badge&logo=microsoft&logoColor=white" /> </div>
 Recon & Scanning
 <div> <img src="https://img.shields.io/badge/-Nmap-4682B4?style=for-the-badge&logo=nestjs&logoColor=white" /> </div>
-##Web & Exploitation
+Web & Exploitation
 <div> <img src="https://img.shields.io/badge/-Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" /> <img src="https://img.shields.io/badge/-Metasploit-1679A7?style=for-the-badge&logo=metasploit&logoColor=white" /> </div>
 
 ## Certifications
